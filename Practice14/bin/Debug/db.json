@@ -1,0 +1,183 @@
+[
+  {
+    "VipRating": 1.0,
+    "TaxRate": 0.2,
+    "FirstName": "Скрудж",
+    "MiddleName": "Фергусович",
+    "LastName": "Макдак",
+    "BankAccounts": [
+      {
+        "Id": 0,
+        "Name": "Депозитный счёт № 0",
+        "Opened": true,
+        "ClientId": 0,
+        "Balance": 1000000000.0,
+        "ClassName": "DepositAccount"
+      },
+      {
+        "Id": 1,
+        "Name": "Недепозитный счёт № 1",
+        "Opened": true,
+        "ClientId": 0,
+        "Balance": 2000000000.0,
+        "ClassName": "NonDepositAccount"
+      }
+    ],
+    "Cash": 1000.0,
+    "Debt": 0.0,
+    "GoodCreditHistory": true,
+    "Id": 0,
+    "ClassName": "VIPClient",
+    "ImageName": "0.png",
+    "Edited": false
+  },
+  {
+    "TaxRate": 0.2,
+    "FirstName": "Дональд",
+    "MiddleName": "Крякмор",
+    "LastName": "Дак",
+    "BankAccounts": [
+      {
+        "Id": 2,
+        "Name": "Депозитный счёт № 2",
+        "Opened": true,
+        "ClientId": 1,
+        "Balance": 1000.0,
+        "ClassName": "DepositAccount"
+      },
+      {
+        "Id": 3,
+        "Name": "Недепозитный счёт № 3",
+        "Opened": true,
+        "ClientId": 1,
+        "Balance": 500.0,
+        "ClassName": "NonDepositAccount"
+      }
+    ],
+    "Cash": 500.0,
+    "Debt": 100.0,
+    "GoodCreditHistory": true,
+    "Id": 1,
+    "ClassName": "LegalClient",
+    "ImageName": "1.png",
+    "Edited": false
+  },
+  {
+    "FirstName": "Уилфорд",
+    "MiddleName": "Дингус",
+    "LastName": "Дак",
+    "BankAccounts": [
+      {
+        "Id": 7,
+        "Name": "Депозитный счёт № 7",
+        "Opened": true,
+        "ClientId": 2,
+        "Balance": 0.0,
+        "ClassName": "DepositAccount"
+      }
+    ],
+    "Cash": 10.0,
+    "Debt": 0.0,
+    "GoodCreditHistory": true,
+    "Id": 2,
+    "ClassName": "Client",
+    "ImageName": "2.png",
+    "Edited": false
+  },
+  {
+    "FirstName": "Роберт",
+    "MiddleName": "\"Билли\"",
+    "LastName": "Дак",
+    "BankAccounts": [
+      {
+        "Id": 9,
+        "Name": "Депозитный счёт № 9",
+        "Opened": true,
+        "ClientId": 3,
+        "Balance": 0.0,
+        "ClassName": "DepositAccount"
+      },
+      {
+        "Id": 11,
+        "Name": "Недепозитный счёт № 11",
+        "Opened": true,
+        "ClientId": 3,
+        "Balance": -10.0,
+        "ClassName": "NonDepositAccount"
+      }
+    ],
+    "Cash": 100.0,
+    "Debt": 100.0,
+    "GoodCreditHistory": false,
+    "Id": 3,
+    "ClassName": "Client",
+    "ImageName": "3.png",
+    "Edited": false
+  },
+  {
+    "FirstName": "Дилфорд",
+    "MiddleName": "\"Дилли\"",
+    "LastName": "Дак",
+    "BankAccounts": [],
+    "Cash": 0.0,
+    "Debt": 0.0,
+    "GoodCreditHistory": true,
+    "Id": 4,
+    "ClassName": "Client",
+    "ImageName": "4.png",
+    "Edited": false
+  },
+  {
+    "FirstName": "Лис",
+    "MiddleName": "Волкович",
+    "LastName": "Упоротый",
+    "BankAccounts": [
+      {
+        "Id": 15,
+        "Name": "Недепозитный счёт № 15",
+        "Opened": true,
+        "ClientId": 5,
+        "Balance": 110.0,
+        "ClassName": "NonDepositAccount"
+      }
+    ],
+    "Cash": 0.0,
+    "Debt": 100.0,
+    "GoodCreditHistory": true,
+    "Id": 5,
+    "ClassName": "Client",
+    "ImageName": "5.png",
+    "Edited": false
+  },
+  {
+    "TaxRate": 0.2,
+    "FirstName": "Зигзаг",
+    "MiddleName": "Рывокович",
+    "LastName": "Маккряк",
+    "BankAccounts": [
+      {
+        "Id": 16,
+        "Name": "Депозитный счёт № 16",
+        "Opened": true,
+        "ClientId": 6,
+        "Balance": 2000.0,
+        "ClassName": "DepositAccount"
+      },
+      {
+        "Id": 17,
+        "Name": "Недепозитный счёт № 17",
+        "Opened": true,
+        "ClientId": 6,
+        "Balance": -1000.0,
+        "ClassName": "NonDepositAccount"
+      }
+    ],
+    "Cash": 0.0,
+    "Debt": 0.0,
+    "GoodCreditHistory": true,
+    "Id": 6,
+    "ClassName": "LegalClient",
+    "ImageName": "6.png",
+    "Edited": false
+  }
+]

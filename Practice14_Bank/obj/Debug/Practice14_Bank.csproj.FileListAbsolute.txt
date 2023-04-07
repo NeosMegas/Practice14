@@ -1,0 +1,9 @@
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\bin\Debug\Practice14_Bank.dll
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\bin\Debug\Practice14_Bank.pdb
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\obj\Debug\Practice14_Bank.csproj.AssemblyReference.cache
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\obj\Debug\Practice14_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\obj\Debug\Practice14_Bank.csproj.CopyComplete
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\obj\Debug\Practice14_Bank.dll
+C:\Users\Neo\source\repos\Practice14\Practice14_Bank\obj\Debug\Practice14_Bank.pdb
