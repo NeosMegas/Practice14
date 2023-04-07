@@ -537,8 +537,8 @@ namespace Practice14
                                 ToggleClientButtons();
                             }
                         }
-                        catch (BankAccountException ex) { MessageBox.Show(ex.Message, "Ошибка банковского счёта", MessageBoxButton.OK, MessageBoxImage.Exclamation); }
-                        catch (Exception ex) { MessageBox.Show(ex.Message, "Ошибка", MessageBoxButton.OK, MessageBoxImage.Exclamation); }
+                        catch (BankAccountException ex) { ex.ShowMessage("Ошибка банковского счёта"); }
+                        catch (Exception ex) { ex.ShowMessage(); }
                     }
                 }
             }

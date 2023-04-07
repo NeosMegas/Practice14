@@ -62,6 +62,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ExceptionExtender.cs" />
     <Compile Include="WindowTransfer.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
